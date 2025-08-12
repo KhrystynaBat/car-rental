@@ -73,10 +73,11 @@ body {
 
 .main-title {
     font-weight: bold;
-    font-size: 80px;
-    line-height: 110px;
-    color: #030305;
-    margin-bottom: 40px;
+    font-size: 110px;
+    line-height: 180px;
+    color: #2b2bc8;
+    margin-bottom: 90px;
+    text-transform:inherit;
 }
 
 .main-text {
