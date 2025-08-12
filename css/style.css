@@ -73,10 +73,11 @@ body {
 
 .main-title {
     font-weight: bold;
-    font-size: 80px;
-    line-height: 110px;
-    color: #030305;
-    margin-bottom: 40px;
+    font-size: 100px;
+    line-height: 120px;
+    color: #991919;
+    margin-bottom: 60px;
+    text-transform: uppercase;
 }
 
 .main-text {
