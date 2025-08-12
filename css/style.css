@@ -75,9 +75,9 @@ body {
     font-weight: bold;
     font-size: 110px;
     line-height: 180px;
-    color: #2b2bc8;
+    color: #991919;
     margin-bottom: 90px;
-    text-transform:inherit;
+    text-transform: uppercase;
 }
 
 .main-text {
